@@ -963,7 +963,7 @@ this.wordle = this.wordle || {}, this.wordle.bundle = function(e) {
               }
       })), s
   }
-  var Ra = new Date(2026, 0, 37, 0, 0, 0, 0);
+  var Ra = new Date(2026, 0, 200, 0, 0, 0, 0);
 
   function $a(e, a) {
       var s = new Date(e),
